@@ -36,3 +36,9 @@ cp .env.example .env
 
 # Запускаем
 python3 bot.py
+```
+# Docker
+```bash
+docker-compose up -d
+docker-compose logs -f
+```
